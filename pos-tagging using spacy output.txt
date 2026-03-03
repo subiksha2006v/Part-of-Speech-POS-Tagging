@@ -1,0 +1,13 @@
+Input Sentence: Machine learning models are improving healthcare systems worldwide.
+
+POS Tagging Output:
+
+Machine --> NOUN
+learning --> NOUN
+models --> NOUN
+are --> AUX
+improving --> VERB
+healthcare --> NOUN
+systems --> NOUN
+worldwide --> ADV
+. --> PUNCT
