@@ -9,4 +9,5 @@ transforming --> VBG
 the --> DT
 world --> NN
 rapidly --> RB
+
 . --> .
