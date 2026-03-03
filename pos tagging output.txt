@@ -1,0 +1,12 @@
+Input Sentence: Artificial Intelligence is transforming the world rapidly.
+
+POS Tagging Output:
+
+Artificial --> JJ
+Intelligence --> NNP
+is --> VBZ
+transforming --> VBG
+the --> DT
+world --> NN
+rapidly --> RB
+. --> .
